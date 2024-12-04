@@ -1,0 +1,8 @@
+main: de.fdhoho007.DiscordWhitelist
+name: DiscordWhitelist
+author: FDHoho007
+version: 1.0.0
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:2.0.21
+  - net.dv8tion:JDA:5.2.1
+  - club.minnced:jda-ktx:0.12.0
